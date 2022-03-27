@@ -1,0 +1,51 @@
+---
+title: "Sarah Fogerty"
+image: "me.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sarah-fogerty-060a001bb/"
+  - label: Github
+    url: "https://github.com/fogerty22"
+  - label: Email
+    url: "mailto:sarahmfgy@gmail.com"
+  - label: Resume
+    url: "FogertySarah_Resume.jpg"
+output:
+  postcards::solana
+---
+ 
+## Biography
+
+Sarah Fogerty is a Data Science student at Simmons University in Boston, MA. She has 1 year experience with Python and R. Before transferring to Simmons University, she completed a research project studying antibiotics in a microbiology lab with Aquinas College (Grand Rapids). A music lover her whole life, she started collecting vinyl records when she was 12 years old. In her free time, Sarah enjoys playing guitar, reading, and exploring Boston. 
+
+## Education
+
+**Simmons University** | Boston, MA
+
+B.S. in Data Science & Analytics | August 2021 - Present
+
+**Wheaton North High School** | Wheaton, IL
+
+Diploma | August 2016 - January 2020
+
+
+## Experience
+
+**Self-employed** | Childcare provider | March 2022 - Present
+
+**McDonald's** | Crew Member | May 2020 - January 2022
+
+**Schmaltz Delicatessen** | Crew Member | May 2021 - July 2021
+
+
+## Skills
+
+R | Python | Spanish bilingual
+
+
+## Portfolio
+
+1. [**Python: Final project submission**](Fogerty_BCode.py) | December 2021
+
+
+
